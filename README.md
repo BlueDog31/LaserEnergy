@@ -11,4 +11,4 @@
 * Tape
 
 ## Procedure
-  First, the laser is securely fastented with(xxx). Distances of xi, xii, xiii and xiiii centimetres are 
+  First, the laser is securely fastented with(xxx). Distances of xi, xii, xiii and xiiii centimetres are measured up
