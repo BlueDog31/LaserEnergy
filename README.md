@@ -4,7 +4,7 @@
   Thesis: Does the colour of LASER and the distance between the output apperture and the LASER spot. 
 ## Materials and equipment:
 * LASER
-* Device to measure energy
+* Device to measure energy (Ideally with digital log)
 * Measuring tape
-* 
+* Co
 ##
