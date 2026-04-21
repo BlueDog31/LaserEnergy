@@ -6,5 +6,5 @@
 * LASER
 * Device to measure energy (Ideally with digital log)
 * Measuring tape
-* Co
+* Filter with different colours
 ##
