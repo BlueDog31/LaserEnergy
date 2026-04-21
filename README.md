@@ -9,10 +9,6 @@
 * Filter with different colours
 * Reciever
 * Tape
-|Column1|Column2
-|--- | ---|
-|LASER device|Used to generate LASER beam|
-|X | Device to measure energy|
 
 ## Procedure
   First, the laser is securely fastented with(xxx). Distances of xi, xii, xiii and xiiii centimetres are 
