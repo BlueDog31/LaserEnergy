@@ -1,4 +1,4 @@
-
+#This is just a copy of what is in the book, likely better ways of doing this. Excel's funcitons are easier to use
 from pylab import *
 
 y = array([3.73, 3.53, 3.75, 3.63, 3.82])
