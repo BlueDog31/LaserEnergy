@@ -1,1 +1,4 @@
-
+Distance(m),Strength(W),Filtercolour(words)
+0.5,20,blue#Currently just example data
+1,18.5,blue
+2,17,blue
