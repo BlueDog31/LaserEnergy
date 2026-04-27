@@ -4,11 +4,9 @@
   Thesis: Does the colour of LASER and the distance between the output apperture and the LASER spot. 
 ## Materials and equipment:
 * LASER
-* Device to measure energy (Ideally with digital log)
+* Vernier Go Direct Light and Colour
 * Measuring tape
-* Filter with different colours
-* Reciever
-* Tape
+* Personal Computer
 
 ## Procedure
-  First, the laser is securely fastented with(xxx). Distances of xi, xii, xiii and xiiii centimetres are measured up
+  First, the distance of 0.1m was measured from the
