@@ -8,7 +8,7 @@
 * LASER-pen, output < 5mW and wave length ≈ 530nm?
 * Measuring device - Vernier Go Direct Light and Colour
 * Measuring tape
-* Personal Computer with Vernier Graphical Analysis software installed
+* Personal Computer with [Vernier Graphical Analysis software](https://www.vernier.com/downloads/graphical-analysis/) installed
 * Note book
 
 ## Procedure
